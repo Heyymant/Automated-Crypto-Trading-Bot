@@ -1,0 +1,3 @@
+api_key = 'IEp414VelBzNFBI/TL13zcPOUFd/WWQHeeKLZ1dt4NKwo2JqUeLaC6LRcqNuSP'
+secret_key = 'gYB5alynGnc2qfJmSliT6645YM7Nb582fRd28eTVxsEOfzhq037UQM2WfTcvyGW'
+
