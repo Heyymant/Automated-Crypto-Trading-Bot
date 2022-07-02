@@ -6,4 +6,7 @@ It includes implementation of follwing 3 trading Stratergies :
 2.Bollinger Double Band
 3.Principal Component Analysis
 
+This project is done by Hemant (IIT Bombay).
+
+
 This project is developed using the tutorials form The Principal Component YoutTube Channel.
